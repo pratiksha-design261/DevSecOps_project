@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : pratiksha1999/notes-DevSecops-app-jenkins:latest
+     image : pratiksha1999/notes-devsecops-app-jenkins:latest
      ports :
          - "8000:8000"
